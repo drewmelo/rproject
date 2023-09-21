@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on André Melo</title>
+    <link>/pt-br/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on André Melo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thumbnail no post</title>
+      <link>/pt-br/post/thumbnail/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/post/thumbnail/</guid>
+      <description>&lt;p&gt;Agora você pode adicionar thumbnails no seu post!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcode para callouts</title>
+      <link>/pt-br/post/callouts/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/post/callouts/</guid>
+      <description>&lt;p&gt;Olha só, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; tem &lt;em&gt;callouts&lt;/em&gt; agora!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Insígnias</title>
+      <link>/pt-br/post/badges/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/post/badges/</guid>
+      <description>&lt;p&gt;Esse artigo mostra como adicionar e customizar insígnias (&lt;em&gt;badges&lt;/em&gt;) em seus posts.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

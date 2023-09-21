@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on André Melo</title>
+    <link>/pt-br/tags/</link>
+    <description>Recent content in Tags on André Melo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>creative coding</title>
+      <link>/pt-br/tags/creative-coding/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/tags/creative-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>/pt-br/tags/javascript/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p5js</title>
+      <link>/pt-br/tags/p5js/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/tags/p5js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>/pt-br/tags/theme/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>/pt-br/tags/shortcodes/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-theme="dark"><head>
+    <title>Renderizando Matemática · Jane Doe</title>
+    <meta charset="utf-8">
+    
+    <meta name="generator" content="Hugo 0.118.2">
+    <meta property="og:title" content="Renderizando Matemática" />
+<meta property="og:description" content="Como configurar o tema para renderizar matemática" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/pt-br/post/renderizando-matematica/" /><meta property="og:image" content="/images/profile.png"/><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-08-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-08-03T00:00:00+00:00" /><meta property="og:site_name" content="Seja bem vindo!" />
+
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="Call me Jane">
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="/css/style.min.8cc03ad068858382a2944859833693aba1937930afe4c9a37a928a7701f67f17.css" integrity="sha256-jMA60GiFg4KilEhZgzaTq6GTeTCv5MmjepKKdwH2fxc=" crossorigin="anonymous" type="text/css">
+
+    
+    
+    
+    <script type="text/javascript" src="/js/heyo-header.min.a3fa728a9f57833a31dfb45c48caaf1e4890c8c97f07bd7133fc2359745edb5d.js" integrity="sha256-o/pyip9Xgzox37RcSMqvHkiQyMl/B71xM/wjWXRe210=" crossorigin="anonymous"></script>
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="/css/fonts.9b6dc54fe4f46468147bcd7ab53966bce55fed4714439c5062c6064512efef38.css" integrity="sha256-m23FT&#43;T0ZGgUe816tTlmvOVf7UcUQ5xQYsYGRRLv7zg=" crossorigin="anonymous">
+
+    
+    
+    
+    <script type="text/javascript" src="/js/sidebar-toc.min.788b639e2ec681549740b90b3b865d5f9e1789e3ca9c06ccc45d65655434c954.js" integrity="sha256-eItjni7GgVSXQLkLO4ZdX54XiePKnAbMxF1lZVQ0yVQ=" crossorigin="anonymous"></script>
+
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js" defer></script>
+
+        
+        
+        <script type="text/javascript" src="/js/sketch-graph.26b92ed9317bdc6f35642d588bdf3283f40998846e01cf4bee22a126907fbf3b.js" integrity="sha256-Jrku2TF73G81ZC1Yi98yg/QJmIRuAc9L7iKhJpB/vzs=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="/js/sketch-digitalRain.af8a7b5c4428cc62d5bf49bf2698d4112c2459ee0c22c1c753ab304aef69888a.js" integrity="sha256-r4p7XEQozGLVv0m/JpjUESwkWe4MIsHHU6swSu9piIo=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="/js/sketch-circleBrushStrokes.fe8fc3ee52e1d90e9236be8c36a27711efa024beb4da304829f95dfbb61d6e84.js" integrity="sha256-/o/D7lLh2Q6SNr6MNqJ3Ee&#43;gJL602jBIKfld&#43;7YdboQ=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="/js/sketch-meta.71b5202ea881c86ac19e4b55414656a5444204a4ba08ff7368a5aa99c0a60949.js" integrity="sha256-cbUgLqiByGrBnktVQUZWpURCBKS6CP9zaKWqmcCmCUk=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="/js/sidebar-sketch.min.2e95015880993ef9abcad62d111decea22406616931bce193254bf8af2339953.js" integrity="sha256-LpUBWICZPvmrytYtER3s6iJAZhaTG84ZMlS/ivIzmVM=" crossorigin="anonymous" defer></script>
+    
+    
+    
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="canonical" href="/pt-br/post/renderizando-matematica/">
+    
+    
+    
+    
+    
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/images/profile.png"/>
+
+<meta name="twitter:title" content="Renderizando Matemática"/>
+<meta name="twitter:description" content="Como configurar o tema para renderizar matemática"/>
+
+</head><body>
+        <div class="main">
+            <div class="page-top">
+    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false" >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    <ul class="nav" id="navMenu">
+        
+        
+            
+            <li><a  href="/pt-br/"  title="">Home</a></li>
+        
+            
+            <li><a  href="/pt-br/post/"  title="">Blog</a></li>
+        
+            
+            <li><a  href="/pt-br/about/"  title="">Sobre</a></li>
+        
+        <li class="grow"></li>
+        
+            
+                <li><a href="/" title="en">en</a></li>
+            
+        
+        <li>
+            <a class="theme-switch" title="Switch Theme">
+                <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+            <div class="sidebar" id="sidebar">
+    <div class="top-toc">
+        <img src="/images/profile.png" alt="profile picture">
+        
+        <a href="/">Seja bem vindo!</a>
+    </div>
+    
+    <div class="middle-sidebar grow" id="middle-sidebar">
+        
+            
+            
+                
+            
+
+            
+                
+                
+                
+                
+                <div
+                    id="sidebar-sketch"
+                    data-sketch="Graph"
+                    data-sketch-starting="{
+    &#34;kind&#34;: &#34;katakana&#34;,
+    &#34;nStreams&#34;: 10
+  }"
+                    data-sketch-show-hover="true"></div>
+            
+        
+    </div>
+
+    <div class="footer">
+        <ul class="social-links">
+            
+            <li>
+                <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" rel="me" aria-label="Linkedin">
+                    <i class="fab fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="https://github.com/LucasVadilho/heyo-hugo-theme" target="_blank" rel="noopener noreferrer" rel="me" aria-label="GitHub">
+                    <i class="fab fa-github" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" rel="me" aria-label="instagram">
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="mailto:lucas.vadilho@gmail.com" target="_blank" rel="noopener noreferrer" rel="me" aria-label="e-mail">
+                    <i class="fas fa-envelope" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+        </ul>
+
+        <div class="by">by Jane Doe <b>·</b> 2023</div>
+    </div>
+</div>
+            <div class="content">
+<div class="post">
+    
+    <div class="post-title">
+        <h1>Renderizando Matemática</h1>
+        
+            <div class="post-header">
+    <div style="padding-top: 10px;">
+        <i class="far fa-calendar"></i><span class="date">Aug 3, 2023</span>
+        <i class="far fa-clock"></i><span class="reading-time">2 minutos</span>
+        
+
+
+    
+        <i class="fa fa-language fa-lg" aria-hidden="true"></i>
+    
+
+    <span>
+        
+            <a href="/post/rendering-math-stuff/" title="en" class="language category">en</a>
+        
+            <a href="/pt-br/post/renderizando-matematica/" title="pt-br" class="language category">pt-br</a>
+        
+    </span>
+
+    </div>
+</div>
+        
+    </div>
+    <div class="post-content">
+        <p>Esse artigo mostra como configurar seu site com o <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> para mostrar matemática formatada com $\LaTeX$.</p>
+<p>A formatação de matemática é realizada através de bibliotecas em JavaScript. No <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> nós temos a opção de utilizar <a href="https://www.mathjax.org/">MathJax 3</a> ou <a href="https://katex.org/">KaTeX</a>.</p>
+<p>As bibliotecas estão na partial <code>math.html</code> (<code>/layouts/partials/math.html</code>).</p>
+<h1 id="configuração-global">Configuração Global</h1>
+<p>Controlado no arquivo de configuração, <code>config.toml</code>, pelo parâmetro <code>math</code>.</p>
+<ul>
+<li>O parâmetro <code>math.enable = true</code> na configuração do projeto habilita formatação para todas as páginas.</li>
+<li>A biblioteca padrão é MathJax, mas ela pode ser trocada por KaTeX com <code>math.use = &quot;katex&quot;</code>.</li>
+</ul>
+<h1 id="por-página">Por Página</h1>
+<p>Mesmo com <code>math.enable = false</code> no <code>config.toml</code> é possível habilitar a formatação no escopo do arquivo, basta colocar <code>math: true</code> na <em>front-matter</em>.</p>
+<h1 id="exemplos">Exemplos</h1>
+<p>Nesses exemplos vamos demonstrar como utilizar MathJax.</p>
+<h2 id="matemática-em-linha">Matemática em Linha</h2>
+<p>O MathJax está configurado para utilizar <code>$...$</code> ou <code>\\(...\\)</code> como os delimitadores em linha.</p>
+<p>Do nada precisamos definir $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180\dots$.</p>
+<h2 id="matemática-em-bloco">Matemática em Bloco</h2>
+<p>Para matemática em bloco o MathJax está configurado para utilizar <code>$$...$$</code> ou <code>\\[...\\]</code> como os delimitadores.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span><span style="color:#f1fa8c">$$</span><span style="color:#8be9fd;font-style:italic">
+</span></span></span><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">    </span><span style="color:#8be9fd;font-style:italic">\varphi</span><span style="color:#8be9fd;font-style:italic"> </span><span style="color:#ff79c6">=</span><span style="color:#8be9fd;font-style:italic"> </span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\frac</span><span style="color:#8be9fd;font-style:italic">{</span><span style="color:#bd93f9">1</span><span style="color:#8be9fd;font-style:italic">}{</span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\frac</span><span style="color:#8be9fd;font-style:italic">{</span><span style="color:#bd93f9">1</span><span style="color:#8be9fd;font-style:italic">} {</span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\frac</span><span style="color:#8be9fd;font-style:italic">{</span><span style="color:#bd93f9">1</span><span style="color:#8be9fd;font-style:italic">} {</span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\cdots</span><span style="color:#8be9fd;font-style:italic">}}}
+</span></span></span><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic"></span><span style="color:#f1fa8c">$$</span>
+</span></span></code></pre></div><p>Vai aparecer como:</p>
+<p>$$
+\varphi = 1+\frac{1}{1+\frac{1} {1+\frac{1} {1+\cdots}}}
+$$</p>
+<h2 id="escapando-">Escapando \$</h2>
+<p>Se você precisar mostrar \$ no seu texto você pode escapar ele com <code>\</code>. Se você está usando arquivos <code>.md</code> é necessário escapar a <code>\</code>.</p>
+<p>Então o texto <code>Um valor aleatório entre R\\$5 e R\\$10</code> no arquivo <code>.md</code>, depois do processamento do Hugo e do MathJax, vai ser renderizado como:</p>
+<p>Um valor aleatório entre R\$5 e R\$10</p>
+    </div>
+    <div class="post-footer">
+        <div class="info">
+            <span class="separator"><a class="category" href="/pt-br/categories/heyo/">heyo</a></span>
+            <span class="separator"><a class="tag" href="/pt-br/tags/theme/">theme</a></span>
+        </div>
+        
+
+
+    </div>
+    
+        
+    
+</div>
+
+                <div class="grow"></div>
+                <div class="built-with">
+    Built with <a href="https://gohugo.io/">Hugo</a> <b>·</b> Using the <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> theme
+</div>
+            </div>
+        </div>
+        
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha512-3M00D/rn8n+2ZVXBO9Hib0GKNpkm8MSUU/e2VNthDyBYxKWG+BftNYYcuEjXlyrSO637tidzMBXfE7sQm0INUg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<script type="text/javascript">
+            
+            
+            window.MathJax = {
+                tex: {
+                    inlineMath: [['$', '$'], ['\\(', '\\)']],
+                    displayMath: [['$$','$$'], ['\\[', '\\]']]
+                },
+                svg: {
+                    scale: 1.25,
+                }
+            };
+        </script><script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.1.0/es5/tex-mml-svg.min.js" integrity="sha512-/mL9Gs6E5Bz6NtPOr9eY&#43;T8IIdJbo2JL3TudApzFFelwBXEc3TeFLU6kPq122TJROv7jkktuBRkz5h8vGzrsyA==" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on André Melo</title>
+    <link>/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on André Melo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Thumbnail</title>
+      <link>/post/thumbnail/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thumbnail/</guid>
+      <description>&lt;p&gt;You can now add thumbnails to your posts in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Callout shortcode</title>
+      <link>/post/callouts/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/callouts/</guid>
+      <description>&lt;p&gt;Check it out, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; has callouts now!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Badges</title>
+      <link>/post/badges/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/badges/</guid>
+      <description>&lt;p&gt;This article will show you how to add and customize badges in your posts.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
