@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>creative coding on André Melo</title>
-    <link>/tags/creative-coding/</link>
+    <link>https://drewmelo.github.io/rproject/tags/creative-coding/</link>
     <description>Recent content in creative coding on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/creative-coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/tags/creative-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches!</title>
-      <link>/post/sketches/</link>
+      <link>https://drewmelo.github.io/rproject/post/sketches/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/sketches/</guid>
+      <guid>https://drewmelo.github.io/rproject/post/sketches/</guid>
       <description>&lt;p&gt;Sketches are the pretty visualizations in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;&amp;rsquo;s sidebar. The default ones were built using &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; a javascript library for creative coding.&lt;/p&gt;</description>
     </item>
     

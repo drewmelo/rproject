@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>creative coding on André Melo</title>
-    <link>/pt-br/tags/creative-coding/</link>
+    <link>https://drewmelo.github.io/rproject/pt-br/tags/creative-coding/</link>
     <description>Recent content in creative coding on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/tags/creative-coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/pt-br/tags/creative-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches!</title>
-      <link>/pt-br/post/sketechs/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/sketechs/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/sketechs/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/sketechs/</guid>
       <description>&lt;p&gt;Sketches são as visualizações na barra lateral do &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;. As disponíveis no momento foram construídas usando &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; uma biblioteca de javascript para programação criativa.&lt;/p&gt;</description>
     </item>
     

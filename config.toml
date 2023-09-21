@@ -1,6 +1,6 @@
 title = "André Melo"
 theme = "heyo-hugo-theme"
-baseURL = "/"
+baseURL = "https://drewmelo.github.io/rproject/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 summarylength = 100

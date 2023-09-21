@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>André Melo</title>
-    <link>/pt-br/</link>
+    <link>https://drewmelo.github.io/rproject/pt-br/</link>
     <description>Recent content on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches!</title>
-      <link>/pt-br/post/sketechs/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/sketechs/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/sketechs/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/sketechs/</guid>
       <description>&lt;p&gt;Sketches são as visualizações na barra lateral do &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;. As disponíveis no momento foram construídas usando &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; uma biblioteca de javascript para programação criativa.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Thumbnail no post</title>
-      <link>/pt-br/post/thumbnail/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/thumbnail/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/thumbnail/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/thumbnail/</guid>
       <description>&lt;p&gt;Agora você pode adicionar thumbnails no seu post!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shortcode para callouts</title>
-      <link>/pt-br/post/callouts/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/callouts/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/callouts/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/callouts/</guid>
       <description>&lt;p&gt;Olha só, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; tem &lt;em&gt;callouts&lt;/em&gt; agora!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Índice</title>
-      <link>/pt-br/post/indice/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/indice/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/indice/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/indice/</guid>
       <description>&lt;p&gt;No &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; podemos usar a barra da esquerda para mostrar um índice do post!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Renderizando Matemática</title>
-      <link>/pt-br/post/renderizando-matematica/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/renderizando-matematica/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</guid>
       <description>&lt;p&gt;Esse artigo mostra como configurar seu site com o &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; para mostrar matemática formatada com $\LaTeX$.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Insígnias</title>
-      <link>/pt-br/post/badges/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/badges/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/post/badges/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/badges/</guid>
       <description>&lt;p&gt;Esse artigo mostra como adicionar e customizar insígnias (&lt;em&gt;badges&lt;/em&gt;) em seus posts.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>/pt-br/about/</link>
+      <link>https://drewmelo.github.io/rproject/pt-br/about/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/about/</guid>
+      <guid>https://drewmelo.github.io/rproject/pt-br/about/</guid>
       <description>heyo é um tema responsivo, minimalista e bonito para hugo. Ele foi baseado no Anatole de Alexander Bilz.
 Features Imagens de capa Visualizações in the sidebar Índices in the sidebar Callout shortcode Badges shortcode Tema escuro Suporte para CSS e JS customizados Suporte para Multilinguas (inglês e pt-br, por enquanto) Open Graph support Soon™ Quickstart Para testar o exampleSite é só:
 git clone https://github.com/LucasVadilho/heyo-hugo-theme heyo cd heyo/exampleSite &amp;amp;&amp;amp; hugo server --themesDir ../.. Ao vivo Dá pra checar uma versão ao vivo em heyo-theme.oioipio.com.

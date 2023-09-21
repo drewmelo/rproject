@@ -2,236 +2,236 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://drewmelo.github.io/rproject/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/"
+                href="https://drewmelo.github.io/rproject/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://drewmelo.github.io/rproject/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://drewmelo.github.io/rproject/categories/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/categories/"
+                href="https://drewmelo.github.io/rproject/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://drewmelo.github.io/rproject/categories/"
                 />
   </url><url>
-    <loc>/tags/creative-coding/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/creative-coding/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/creative-coding/"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/creative-coding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/creative-coding/"
+                href="https://drewmelo.github.io/rproject/tags/creative-coding/"
                 />
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/css/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/heyo/</loc>
+    <loc>https://drewmelo.github.io/rproject/categories/heyo/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/categories/heyo/"
+                href="https://drewmelo.github.io/rproject/pt-br/categories/heyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/heyo/"
+                href="https://drewmelo.github.io/rproject/categories/heyo/"
                 />
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/html/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/javascript/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/javascript/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/javascript/"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/javascript/"
+                href="https://drewmelo.github.io/rproject/tags/javascript/"
                 />
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/markdown/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/markdown-syntax/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/markdown-syntax/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/p5js/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/p5js/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/p5js/"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/p5js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/p5js/"
+                href="https://drewmelo.github.io/rproject/tags/p5js/"
                 />
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/post/"
+                href="https://drewmelo.github.io/rproject/pt-br/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://drewmelo.github.io/rproject/post/"
                 />
   </url><url>
-    <loc>/post/sketches/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/sketches/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>https://drewmelo.github.io/rproject/categories/syntax/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://drewmelo.github.io/rproject/tags/"
                 />
   </url><url>
-    <loc>/tags/theme/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/theme/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/theme/"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/theme/"
+                href="https://drewmelo.github.io/rproject/tags/theme/"
                 />
   </url><url>
-    <loc>/tags/themes/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/themes/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>https://drewmelo.github.io/rproject/categories/themes/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/thumbnail/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/thumbnail/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/post/thumbnail/"
+                href="https://drewmelo.github.io/rproject/pt-br/post/thumbnail/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/thumbnail/"
+                href="https://drewmelo.github.io/rproject/post/thumbnail/"
                 />
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/shortcodes/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/shortcodes/"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/shortcodes/"
+                href="https://drewmelo.github.io/rproject/tags/shortcodes/"
                 />
   </url><url>
-    <loc>/post/callouts/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/callouts/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/post/callouts/"
+                href="https://drewmelo.github.io/rproject/pt-br/post/callouts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/callouts/"
+                href="https://drewmelo.github.io/rproject/post/callouts/"
                 />
   </url><url>
-    <loc>/post/toc/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/toc/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/post/indice/"
+                href="https://drewmelo.github.io/rproject/pt-br/post/indice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/toc/"
+                href="https://drewmelo.github.io/rproject/post/toc/"
                 />
   </url><url>
-    <loc>/post/rendering-math-stuff/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/rendering-math-stuff/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/post/renderizando-matematica/"
+                href="https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/rendering-math-stuff/"
+                href="https://drewmelo.github.io/rproject/post/rendering-math-stuff/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://drewmelo.github.io/rproject/about/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/about/"
+                href="https://drewmelo.github.io/rproject/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://drewmelo.github.io/rproject/about/"
                 />
   </url><url>
-    <loc>/post/badges/</loc>
+    <loc>https://drewmelo.github.io/rproject/post/badges/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/post/badges/"
+                href="https://drewmelo.github.io/rproject/pt-br/post/badges/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/badges/"
+                href="https://drewmelo.github.io/rproject/post/badges/"
                 />
   </url>
 </urlset>
