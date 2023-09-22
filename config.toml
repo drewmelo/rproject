@@ -36,7 +36,7 @@ paginate = 10
   favicon = "favicons/"
   customCss = []
   customJs = []
-  displayMode = "dark"
+  displayMode = "white"
   # For Hugo's Open Graph
   images = ['images/profile.png']
 
