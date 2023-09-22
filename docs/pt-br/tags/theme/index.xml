@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Renderizando Matemática</title>
-      <link>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</guid>
-      <description>&lt;p&gt;Esse artigo mostra como configurar seu site com o &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; para mostrar matemática formatada com $\LaTeX$.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Insígnias</title>
       <link>https://drewmelo.github.io/rproject/pt-br/post/badges/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>

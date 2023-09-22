@@ -6,7 +6,16 @@
     <description>Recent content in Posts on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/pt-br/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/pt-br/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciência de Dados na Área Econômica</title>
+      <link>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</guid>
+      <description>&lt;p&gt;Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de &amp;ldquo;Big Data&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Sketches!</title>
       <link>https://drewmelo.github.io/rproject/pt-br/post/sketechs/</link>
@@ -41,15 +50,6 @@
       
       <guid>https://drewmelo.github.io/rproject/pt-br/post/indice/</guid>
       <description>&lt;p&gt;No &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; podemos usar a barra da esquerda para mostrar um índice do post!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Renderizando Matemática</title>
-      <link>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/</guid>
-      <description>&lt;p&gt;Esse artigo mostra como configurar seu site com o &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; para mostrar matemática formatada com $\LaTeX$.&lt;/p&gt;</description>
     </item>
     
     <item>

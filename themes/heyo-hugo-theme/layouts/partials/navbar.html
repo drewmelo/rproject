@@ -13,7 +13,6 @@
         <li class="grow"></li>
         {{ if .Site.IsMultiLingual }}
             {{ range $.Site.Home.Translations }}
-                <li><a href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">{{ .Language.LanguageName }}</a></li>
             {{ end }}
         {{ end }}
         <li>

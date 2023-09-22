@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://drewmelo.github.io/rproject/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -15,8 +15,21 @@
                 href="https://drewmelo.github.io/rproject/"
                 />
   </url><url>
+    <loc>https://drewmelo.github.io/rproject/tags/bigdata/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/bigdata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/tags/bigdata/"
+                />
+  </url><url>
     <loc>https://drewmelo.github.io/rproject/categories/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -26,6 +39,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://drewmelo.github.io/rproject/categories/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/post/renderizando-matematica/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/post/renderizando-matematica/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/tags/datascience/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/datascience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/tags/datascience/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/categories/heyo/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/pt-br/categories/heyo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/categories/heyo/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/post/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/pt-br/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/post/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/tags/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/tags/"
                 />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/creative-coding/</loc>
@@ -43,19 +121,6 @@
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/css/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/categories/heyo/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/pt-br/categories/heyo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/categories/heyo/"
-                />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/html/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
@@ -92,37 +157,11 @@
                 href="https://drewmelo.github.io/rproject/tags/p5js/"
                 />
   </url><url>
-    <loc>https://drewmelo.github.io/rproject/post/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/pt-br/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/post/"
-                />
-  </url><url>
     <loc>https://drewmelo.github.io/rproject/post/sketches/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://drewmelo.github.io/rproject/categories/syntax/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/tags/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/tags/"
-                />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/theme/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
@@ -193,19 +232,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://drewmelo.github.io/rproject/post/toc/"
-                />
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/post/rendering-math-stuff/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/post/rendering-math-stuff/"
                 />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/about/</loc>

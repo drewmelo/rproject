@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-br" data-theme="dark"><head>
-    <title>Renderizando Matemática · Jane Doe</title>
+    <title>Ciência de Dados na Área Econômica · drewmelo</title>
     <meta charset="utf-8">
     
     <meta name="generator" content="Hugo 0.118.2">
-    <meta property="og:title" content="Renderizando Matemática" />
+    <meta property="og:title" content="Ciência de Dados na Área Econômica" />
 <meta property="og:description" content="Como configurar o tema para renderizar matemática" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/" /><meta property="og:image" content="https://drewmelo.github.io/rproject/images/profile.png"/><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2023-08-03T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-08-03T00:00:00+00:00" /><meta property="og:site_name" content="Seja bem vindo!" />
+<meta property="article:published_time" content="2023-09-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-09-21T00:00:00+00:00" /><meta property="og:site_name" content="Seja bem vindo!" />
 
 
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -74,7 +74,7 @@
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://drewmelo.github.io/rproject/images/profile.png"/>
 
-<meta name="twitter:title" content="Renderizando Matemática"/>
+<meta name="twitter:title" content="Ciência de Dados na Área Econômica"/>
 <meta name="twitter:description" content="Como configurar o tema para renderizar matemática"/>
 
 </head><body>
@@ -100,7 +100,6 @@
         <li class="grow"></li>
         
             
-                <li><a href="https://drewmelo.github.io/rproject/" title="en">en</a></li>
             
         
         <li>
@@ -110,6 +109,7 @@
         </li>
     </ul>
 </div>
+
             <div class="sidebar" id="sidebar">
     <div class="top-toc">
         <img src="https://drewmelo.github.io/rproject/images/profile.png" alt="profile picture">
@@ -170,73 +170,46 @@
             
         </ul>
 
-        <div class="by">by Jane Doe <b>·</b> 2023</div>
+        <div class="by">by drewmelo <b>·</b> 2023</div>
     </div>
 </div>
             <div class="content">
 <div class="post">
     
     <div class="post-title">
-        <h1>Renderizando Matemática</h1>
+        <h1>Ciência de Dados na Área Econômica</h1>
         
             <div class="post-header">
     <div style="padding-top: 10px;">
-        <i class="far fa-calendar"></i><span class="date">Aug 3, 2023</span>
-        <i class="far fa-clock"></i><span class="reading-time">2 minutos</span>
+        <i class="far fa-calendar"></i><span class="date">Sep 21, 2023</span>
+        <i class="far fa-clock"></i><span class="reading-time">3 minutos</span>
         
 
 
     
-        <i class="fa fa-language fa-lg" aria-hidden="true"></i>
+        <i class="fa fa-language fa-lg"></i>
     
 
-    <span>
-        
-            <a href="https://drewmelo.github.io/rproject/post/rendering-math-stuff/" title="en" class="language category">en</a>
-        
-            <a href="https://drewmelo.github.io/rproject/pt-br/post/renderizando-matematica/" title="pt-br" class="language category">pt-br</a>
-        
-    </span>
+
 
     </div>
 </div>
         
     </div>
     <div class="post-content">
-        <p>Esse artigo mostra como configurar seu site com o <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> para mostrar matemática formatada com $\LaTeX$.</p>
-<p>A formatação de matemática é realizada através de bibliotecas em JavaScript. No <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> nós temos a opção de utilizar <a href="https://www.mathjax.org/">MathJax 3</a> ou <a href="https://katex.org/">KaTeX</a>.</p>
-<p>As bibliotecas estão na partial <code>math.html</code> (<code>/layouts/partials/math.html</code>).</p>
-<h1 id="configuração-global">Configuração Global</h1>
-<p>Controlado no arquivo de configuração, <code>config.toml</code>, pelo parâmetro <code>math</code>.</p>
-<ul>
-<li>O parâmetro <code>math.enable = true</code> na configuração do projeto habilita formatação para todas as páginas.</li>
-<li>A biblioteca padrão é MathJax, mas ela pode ser trocada por KaTeX com <code>math.use = &quot;katex&quot;</code>.</li>
-</ul>
-<h1 id="por-página">Por Página</h1>
-<p>Mesmo com <code>math.enable = false</code> no <code>config.toml</code> é possível habilitar a formatação no escopo do arquivo, basta colocar <code>math: true</code> na <em>front-matter</em>.</p>
-<h1 id="exemplos">Exemplos</h1>
-<p>Nesses exemplos vamos demonstrar como utilizar MathJax.</p>
-<h2 id="matemática-em-linha">Matemática em Linha</h2>
-<p>O MathJax está configurado para utilizar <code>$...$</code> ou <code>\\(...\\)</code> como os delimitadores em linha.</p>
-<p>Do nada precisamos definir $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180\dots$.</p>
-<h2 id="matemática-em-bloco">Matemática em Bloco</h2>
-<p>Para matemática em bloco o MathJax está configurado para utilizar <code>$$...$$</code> ou <code>\\[...\\]</code> como os delimitadores.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span><span style="color:#f1fa8c">$$</span><span style="color:#8be9fd;font-style:italic">
-</span></span></span><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">    </span><span style="color:#8be9fd;font-style:italic">\varphi</span><span style="color:#8be9fd;font-style:italic"> </span><span style="color:#ff79c6">=</span><span style="color:#8be9fd;font-style:italic"> </span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\frac</span><span style="color:#8be9fd;font-style:italic">{</span><span style="color:#bd93f9">1</span><span style="color:#8be9fd;font-style:italic">}{</span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\frac</span><span style="color:#8be9fd;font-style:italic">{</span><span style="color:#bd93f9">1</span><span style="color:#8be9fd;font-style:italic">} {</span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\frac</span><span style="color:#8be9fd;font-style:italic">{</span><span style="color:#bd93f9">1</span><span style="color:#8be9fd;font-style:italic">} {</span><span style="color:#bd93f9">1</span><span style="color:#ff79c6">+</span><span style="color:#8be9fd;font-style:italic">\cdots</span><span style="color:#8be9fd;font-style:italic">}}}
-</span></span></span><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic"></span><span style="color:#f1fa8c">$$</span>
-</span></span></code></pre></div><p>Vai aparecer como:</p>
-<p>$$
-\varphi = 1+\frac{1}{1+\frac{1} {1+\frac{1} {1+\cdots}}}
-$$</p>
-<h2 id="escapando-">Escapando \$</h2>
-<p>Se você precisar mostrar \$ no seu texto você pode escapar ele com <code>\</code>. Se você está usando arquivos <code>.md</code> é necessário escapar a <code>\</code>.</p>
-<p>Então o texto <code>Um valor aleatório entre R\\$5 e R\\$10</code> no arquivo <code>.md</code>, depois do processamento do Hugo e do MathJax, vai ser renderizado como:</p>
-<p>Um valor aleatório entre R\$5 e R\$10</p>
+        <p>Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de &ldquo;Big Data&rdquo;.</p>
+<p>Ao longo das últimas décadas, testemunhamos avanços tecnológicos que alteraram a forma como vivemos, seja no trabalho ou no modo como nos comunicamos. No cerne dessa revolução está a internet, um sistema global de informações que conecta pessoas, empresas e instituições em diferentes partes do mundo. Seu surgimento, juntamente com o crescimento exponencial da quantidade de dados gerados e armazenados em servidores levaram a uma necessidade sem precedentes para aplicar esses conhecimentos em uma escala maior. Dessa forma, com o avanço dessa tecnologia ascendeu o desenvolvimento e popularização da <em>Data Science</em>, ou simplesmente Ciência de Dados</p>
+<p>A Ciência de Dados é um campo multidisciplinar que abrange a análise de dados estruturados, que são fixos e organizados, bem como de dados não estruturados, que são flexíveis e dinâmicos, com técnicas e algoritmos para extração e exploração de informações a partir de conjuntos de bases complexas. Nesse quesito, um especialista buscará
+envolver a coleta, processamento, análise e interpretação desses dados com o objetivo de obter <em>insights</em> e conhecimentos relevantes para a área econômica.</p>
+<p>Algumas técnicas são essenciais para análise ou extração de dados, como <em>Web Scraping</em>, que consiste na utilização da automatização para obter pontos imensuráveis de dados estruturados da internet, em contraposição ao processo do Text Mining ou <em>Text Analytics</em>, na extração de dados não estruturados de fontes online. Essas duas técnicas combinadas com <em>Machine Learning</em> ou Aprendizado de Máquina, podem fazer o diferencial na carreira de um economista no que diz respeito à análise de mercado e previsões econômicas.</p>
+<p>É durante a fase de análise exploratória de dados que o modelo de previsão de preços de ativos e avaliação de risco financeiro é construído. Além disso, técnicas como <em>Text Analytics</em> e <em>Machine Learning</em>, têm uma aplicação valiosa na análise de sentimentos, principalmente quando estamos lidando com dados não estruturados. Dessa forma, é possível detectar as opiniões positivas, negativas ou neutras dos consumidores em relação a um produto ou serviço. Essa capacidade de compreensão do feedback dos clientes em relação aos produtos é de extrema utilidade para identificar tendências e problemas relacionados aos produtos das empresas.</p>
+<p>a era do <em>“Big Data”</em>, estamos lidando com um volume excessivo de dados econômicos, como indicadores macroeconômicos, séries temporais e informações de mercado. Esse cenário apresenta desafios significativos em relação ao armazenamento, processamento e privacidade dos dados. No entanto, também oferece aos profissionais a oportunidade de observar padrões complexos no comportamento econômico, o que permite análises abrangentes, previsões mais precisas e o desenvolvimento de estratégias eficientes.</p>
+<p>Os avanços tecnológicos proporcionaram aos cientistas de dados ferramentas inteligentes e poderosas para explorar e compreender as bases de dados. Entretanto, é fundamental destacar o papel crucial do conhecimento e da experiência do economista nesse processo. Ao combinar o conhecimento teórico com as técnicas de Ciência de Dados, o profissional em questão é capaz de interpretar as relações de causa e efeito, aplicando seu conhecimento econômico para extrair <em>insights</em> importantes. Com isso, adquirindo uma posição estratégica em um mundo cada vez mais orientado por dados, impulsionando o progresso econômico e embasando a tomada de decisões fundamentadas.</p>
     </div>
     <div class="post-footer">
         <div class="info">
             <span class="separator"><a class="category" href="/rproject/pt-br/categories/heyo/">heyo</a></span>
-            <span class="separator"><a class="tag" href="/rproject/pt-br/tags/theme/">theme</a></span>
+            <span class="separator"><a class="tag" href="/rproject/pt-br/tags/datascience/">datascience</a><a class="tag" href="/rproject/pt-br/tags/bigdata/">bigdata</a></span>
         </div>
         
 

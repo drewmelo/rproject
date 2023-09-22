@@ -30,7 +30,7 @@ paginate = 10
 
 [params]
   title = "Seja bem vindo!"
-  author = "Jane Doe"
+  author = "drewmelo"
   description = "Call me Jane"
   profilePicture = "images/profile.png"
   favicon = "favicons/"
