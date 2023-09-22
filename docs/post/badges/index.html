@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark"><head>
-    <title>Badges · drewmelo</title>
+<html lang="pt-br" data-theme="dark"><head>
+    <title>Insígnias · drewmelo</title>
     <meta charset="utf-8">
     
     <meta name="generator" content="Hugo 0.118.2">
-    <meta property="og:title" content="Badges" />
-<meta property="og:description" content="How to add badges to your posts" />
+    <meta property="og:title" content="Insígnias" />
+<meta property="og:description" content="Como adicionar insígnias ao seu post" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://drewmelo.github.io/rproject/post/badges/" /><meta property="og:image" content="https://drewmelo.github.io/rproject/images/profile.png"/><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2023-08-01T00:00:00+00:00" />
@@ -74,8 +74,8 @@
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://drewmelo.github.io/rproject/images/profile.png"/>
 
-<meta name="twitter:title" content="Badges"/>
-<meta name="twitter:description" content="How to add badges to your posts"/>
+<meta name="twitter:title" content="Insígnias"/>
+<meta name="twitter:description" content="Como adicionar insígnias ao seu post"/>
 
 </head><body>
         <div class="main">
@@ -92,10 +92,10 @@
             <li><a  href="/rproject/"  title="">Home</a></li>
         
             
-            <li><a  href="/rproject/post/"  title="">Posts</a></li>
+            <li><a  href="/rproject/post/"  title="">Blog</a></li>
         
             
-            <li><a  href="/rproject/about/"  title="">About</a></li>
+            <li><a  href="/rproject/about/"  title="">Sobre</a></li>
         
         <li class="grow"></li>
         
@@ -177,12 +177,12 @@
 <div class="post">
     
     <div class="post-title">
-        <h1>Badges</h1>
+        <h1>Insígnias</h1>
         
             <div class="post-header">
     <div style="padding-top: 10px;">
         <i class="far fa-calendar"></i><span class="date">Aug 1, 2023</span>
-        <i class="far fa-clock"></i><span class="reading-time">2 minutes</span>
+        <i class="far fa-clock"></i><span class="reading-time">2 minutos</span>
         
 
 
@@ -197,12 +197,12 @@
         
     </div>
     <div class="post-content">
-        <p>This article will show you how to add and customize badges in your posts.</p>
-<p>In <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> badges are generated using <a href="https://badgen.net/">badgen.net</a>. They can be built with the <code>badge</code> shortcode and there&rsquo;s also a way to add multiple badges to the <a href="#post-summary">post summary</a> via front-matter.</p>
+        <p>Esse artigo mostra como adicionar e customizar insígnias (<em>badges</em>) em seus posts.</p>
+<p>No <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> insígnias são geradas usando <a href="https://badgen.net/">badgen.net</a>. Elas podem ser construídas pelo shortcode <code>badge</code>, mas também tem uma maneira de adicionar várias ao <a href="#resumo-do-post">resumo do post</a> via <em>front-matter</em>.</p>
 <h1 id="shortcode">Shortcode</h1>
-<p>The shorcode is <code>{{&lt; badge &gt;}}</code>. You can check all the parameters <a href="#configuration">here</a>.</p>
-<h2 id="example">Example</h2>
-<p>The following shortcode:</p>
+<p>O shortcode é <code>{{&lt; badge &gt;}}</code>. Você pode checar todas as configurações <a href="#configura%C3%A7%C3%A3o">aqui</a>.</p>
+<h2 id="examplo">Examplo</h2>
+<p>Esse shortcode:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span><span style="color:#ff79c6">{{</span>&lt; 
 </span></span><span style="display:flex;"><span>badge 
 </span></span><span style="display:flex;"><span>    status<span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;Checkout the Wiki&#34;</span>
@@ -211,7 +211,7 @@
 </span></span><span style="display:flex;"><span>    color<span style="color:#ff79c6">=</span>grey
 </span></span><span style="display:flex;"><span>    url<span style="color:#ff79c6">=</span>https://www<span style="color:#50fa7b">.wikipedia.org</span>
 </span></span><span style="display:flex;"><span>&gt;<span style="color:#ff79c6">}}</span>
-</span></span></code></pre></div><p>Generates:</p>
+</span></span></code></pre></div><p>Gera a seguinte insígnia:</p>
 
 
 
@@ -250,13 +250,13 @@
 
     <a target="_blank" href=https://www.wikipedia.org><img class="badge" src=https://flat.badgen.net/static/subject/Checkout%20the%20Wiki?color&#61;grey&amp;icon&#61;wiki&amp;label&#61;&amp; alt=subject&#32;Checkout&#32;the&#32;Wiki loading="lazy"/></a>
 
-<h1 id="post-summary">Post summary</h1>
-<p>You can also display badges in the post summary, this happens through the variable <code>badges</code> in the front-matter.</p>
-<h2 id="example-1">Example</h2>
-<p>The badges in this post were generated by the following front-matter:</p>
+<h1 id="resumo-do-post">Resumo do post</h1>
+<p>Você também pode mostrar várias insígnias no resumo do post, via a variável <code>badges</code> no <em>front-matter</em>.</p>
+<h2 id="exemplo">Exemplo</h2>
+<p>As insígnias desse post foram geradas pela seguinte <em>front-matter</em>:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">author</span>: Lucas David Vadilho
-</span></span><span style="display:flex;"><span><span style="color:#ff79c6">title</span>: Badges!
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">title</span>: Insignías
 </span></span><span style="display:flex;"><span>⋮
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">badges</span>:
 </span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">github</span>:
@@ -288,8 +288,8 @@
 </span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">label_color</span>: <span style="color:#bd93f9">000</span>
 </span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">icon</span>: awesome
 </span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">url</span>: https://badgen.net/
-</span></span></code></pre></div><h1 id="configuration">Configuration</h1>
-<p>The following table shows all the ways you can parametrize a badge.</p>
+</span></span></code></pre></div><h1 id="configuração">Configuração</h1>
+<p>A tabela abaixo mostra todos os parâmetros para configurar a insígnia.</p>
 <table>
 <thead>
 <tr>
@@ -302,63 +302,63 @@
 <tbody>
 <tr>
 <td><code>status</code></td>
-<td>Specification for generator <br /> Or text on the right side</td>
-<td>Any string</td>
+<td>Especificação para o <code>generator</code> <br /> Ou texto na direita</td>
+<td>Qualquer string</td>
 <td><code>status</code></td>
 </tr>
 <tr>
 <td><code>subject</code></td>
-<td>Specification for generator <br /> Or text on left side<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
-<td>Any string</td>
+<td>Especificação para o <code>generator</code> <br /> Ou texto na esquerda<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
+<td>Qualquer string</td>
 <td><code>subject</code></td>
 </tr>
 <tr>
 <td><code>generator</code></td>
-<td>Badge generator</td>
-<td>Checkout <a href="https://badgen.net/help#generators">badgen&rsquo;s documentation</a></td>
+<td>Gerador da insígnia</td>
+<td>Ver a <a href="https://badgen.net/help#generators">documentação</a> do badgen</td>
 <td><code>static</code></td>
 </tr>
 <tr>
 <td><code>flat</code></td>
-<td>Defines the style of the badge</td>
+<td>Define o estilo da insígnia</td>
 <td><code>true | false</code></td>
 <td><code>true</code></td>
 </tr>
 <tr>
 <td><code>scale</code></td>
-<td>Scale of the badge</td>
-<td>Any number</td>
+<td>Escala da insígnia</td>
+<td>Qualquer número</td>
 <td><code>1</code></td>
 </tr>
 <tr>
 <td><code>label</code></td>
-<td>Text on the left side<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
-<td>Any string</td>
+<td>Texto na esquerda<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
+<td>Qualquer string</td>
 <td>None</td>
 </tr>
 <tr>
 <td><code>url</code></td>
-<td>Turn the badge into a link</td>
-<td>Any URL</td>
+<td>Transforma a badge em um link</td>
+<td>Qualquer URL</td>
 <td>None</td>
 </tr>
 <tr>
 <td><code>icon</code></td>
-<td>Icon on the left side</td>
-<td><a href="https://badgen.net/help#icons">Bultin icons</a> or any SVG URL</td>
-<td>badgen&rsquo;s default</td>
+<td>Ícone no lado esquerdo</td>
+<td><a href="https://badgen.net/help#icons">Ícones</a> do badgen ou qualquer URL de SVG</td>
+<td>Padrão do badgen</td>
 </tr>
 <tr>
 <td><code>color</code></td>
-<td>Status color</td>
-<td><a href="https://badgen.net/help#colors">Bultin colors</a> or Hex code</td>
-<td>badgen&rsquo;s default</td>
+<td>Cor do status</td>
+<td><a href="https://badgen.net/help#colors">Cores</a> do badgen ou Hexadecimal</td>
+<td>Padrão do badgen</td>
 </tr>
 <tr>
 <td><code>label_color</code></td>
-<td>Label color</td>
-<td><a href="https://badgen.net/help#colors">Bultin colors</a> or Hex code</td>
-<td>badgen&rsquo;s default</td>
+<td>Cor do label</td>
+<td><a href="https://badgen.net/help#colors">Cores</a> do badgen ou Hexadecimal</td>
+<td>Padrão do badgen</td>
 </tr>
 </tbody>
 </table>
@@ -366,10 +366,10 @@
 <hr>
 <ol>
 <li id="fn:1">
-<p>Will be overwritten by <code>label</code>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Será sobrescrita por <code>label</code>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2">
-<p>Can be empty (<code>&quot;&quot;</code>), if you want to only show the icon&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Pode ser vazio (<code>&quot;&quot;</code>), se você quiser mostrar só o ícone&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>

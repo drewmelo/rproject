@@ -2,7 +2,7 @@ title = "André Melo"
 theme = "heyo-hugo-theme"
 baseURL = "https://drewmelo.github.io/rproject/"
 languageCode = "en"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt-br"
 summarylength = 100
 enableEmoji = true
 enableRobotsTXT = true
@@ -107,7 +107,7 @@ url = "/about/"
 name = "Home"
 identifier = "home"
 weight = 100
-url = "/pt-br/"
+url = "/"
 
 [[Languages.pt-br.menu.main]]
 name = "Blog"

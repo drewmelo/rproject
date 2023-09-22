@@ -5,7 +5,7 @@ categories:
 date: "2023-09-21"
 description: Como configurar o tema para renderizar matemática
 math: true
-slug: renderizando-matematica
+slug: ciencia-de-dados
 tags:
 - datascience
 - bigdata

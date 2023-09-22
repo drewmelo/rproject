@@ -5,51 +5,51 @@
     <link>https://drewmelo.github.io/rproject/tags/theme/</link>
     <description>Recent content in theme on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>pt-br</language>
     <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches!</title>
-      <link>https://drewmelo.github.io/rproject/post/sketches/</link>
+      <link>https://drewmelo.github.io/rproject/post/sketechs/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://drewmelo.github.io/rproject/post/sketches/</guid>
-      <description>&lt;p&gt;Sketches are the pretty visualizations in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;&amp;rsquo;s sidebar. The default ones were built using &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; a javascript library for creative coding.&lt;/p&gt;</description>
+      <guid>https://drewmelo.github.io/rproject/post/sketechs/</guid>
+      <description>&lt;p&gt;Sketches são as visualizações na barra lateral do &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;. As disponíveis no momento foram construídas usando &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; uma biblioteca de javascript para programação criativa.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post Thumbnail</title>
+      <title>Thumbnail no post</title>
       <link>https://drewmelo.github.io/rproject/post/thumbnail/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/post/thumbnail/</guid>
-      <description>&lt;p&gt;You can now add thumbnails to your posts in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Agora você pode adicionar thumbnails no seu post!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Callout shortcode</title>
+      <title>Shortcode para callouts</title>
       <link>https://drewmelo.github.io/rproject/post/callouts/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/post/callouts/</guid>
-      <description>&lt;p&gt;Check it out, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; has callouts now!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Olha só, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; tem &lt;em&gt;callouts&lt;/em&gt; agora!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Table of Contents</title>
-      <link>https://drewmelo.github.io/rproject/post/toc/</link>
+      <title>Índice</title>
+      <link>https://drewmelo.github.io/rproject/post/indice/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://drewmelo.github.io/rproject/post/toc/</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; we can use the sidebar to display a Table of Contents!&lt;/p&gt;</description>
+      <guid>https://drewmelo.github.io/rproject/post/indice/</guid>
+      <description>&lt;p&gt;No &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; podemos usar a barra da esquerda para mostrar um índice do post!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Badges</title>
+      <title>Insígnias</title>
       <link>https://drewmelo.github.io/rproject/post/badges/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/post/badges/</guid>
-      <description>&lt;p&gt;This article will show you how to add and customize badges in your posts.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Esse artigo mostra como adicionar e customizar insígnias (&lt;em&gt;badges&lt;/em&gt;) em seus posts.&lt;/p&gt;</description>
     </item>
     
   </channel>
