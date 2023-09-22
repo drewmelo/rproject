@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on André Melo</title>
+    <link>https://drewmelo.github.io/rproject/tags/blog/</link>
+    <description>Recent content in blog on André Melo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre o blog</title>
+      <link>https://drewmelo.github.io/rproject/post/badges/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/post/badges/</guid>
+      <description>&lt;p&gt;Esse artigo mostra as novidades que o blog oferece e a contribuição para a comunidade programadora, especialmente para a linguagem R e afins voltados para o universo econômico.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

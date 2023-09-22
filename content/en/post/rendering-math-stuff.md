@@ -1,7 +1,7 @@
 ---
 author: André Melo
 categories:
-- heyo
+- post
 date: "2023-09-21"
 description: Como configurar o tema para renderizar matemática
 math: true
@@ -24,7 +24,3 @@ envolver a coleta, processamento, análise e interpretação desses dados com o 
 Algumas técnicas são essenciais para análise ou extração de dados, como *Web Scraping*, que consiste na utilização da automatização para obter pontos imensuráveis de dados estruturados da internet, em contraposição ao processo do Text Mining ou *Text Analytics*, na extração de dados não estruturados de fontes online. Essas duas técnicas combinadas com *Machine Learning* ou Aprendizado de Máquina, podem fazer o diferencial na carreira de um economista no que diz respeito à análise de mercado e previsões econômicas.
 
 É durante a fase de análise exploratória de dados que o modelo de previsão de preços de ativos e avaliação de risco financeiro é construído. Além disso, técnicas como *Text Analytics* e *Machine Learning*, têm uma aplicação valiosa na análise de sentimentos, principalmente quando estamos lidando com dados não estruturados. Dessa forma, é possível detectar as opiniões positivas, negativas ou neutras dos consumidores em relação a um produto ou serviço. Essa capacidade de compreensão do feedback dos clientes em relação aos produtos é de extrema utilidade para identificar tendências e problemas relacionados aos produtos das empresas.
-
-a era do *“Big Data”*, estamos lidando com um volume excessivo de dados econômicos, como indicadores macroeconômicos, séries temporais e informações de mercado. Esse cenário apresenta desafios significativos em relação ao armazenamento, processamento e privacidade dos dados. No entanto, também oferece aos profissionais a oportunidade de observar padrões complexos no comportamento econômico, o que permite análises abrangentes, previsões mais precisas e o desenvolvimento de estratégias eficientes.
-
-Os avanços tecnológicos proporcionaram aos cientistas de dados ferramentas inteligentes e poderosas para explorar e compreender as bases de dados. Entretanto, é fundamental destacar o papel crucial do conhecimento e da experiência do economista nesse processo. Ao combinar o conhecimento teórico com as técnicas de Ciência de Dados, o profissional em questão é capaz de interpretar as relações de causa e efeito, aplicando seu conhecimento econômico para extrair *insights* importantes. Com isso, adquirindo uma posição estratégica em um mundo cada vez mais orientado por dados, impulsionando o progresso econômico e embasando a tomada de decisões fundamentadas.

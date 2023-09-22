@@ -6,22 +6,22 @@
     <description>Recent content in Tags on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>datascience</title>
+      <link>https://drewmelo.github.io/rproject/tags/datascience/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bigdata</title>
       <link>https://drewmelo.github.io/rproject/tags/bigdata/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/tags/bigdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datascience</title>
-      <link>https://drewmelo.github.io/rproject/tags/datascience/</link>
-      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/tags/datascience/</guid>
       <description></description>
     </item>
     
@@ -67,6 +67,15 @@
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://drewmelo.github.io/rproject/tags/blog/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/tags/blog/</guid>
       <description></description>
     </item>
     

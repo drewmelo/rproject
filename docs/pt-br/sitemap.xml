@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://drewmelo.github.io/rproject/post/analise-sinasc-ce/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://drewmelo.github.io/rproject/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +16,71 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://drewmelo.github.io/rproject/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/categories/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/categories/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/tags/datascience/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/tags/datascience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/tags/datascience/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/categories/post/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/categories/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/categories/post/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/post/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/post/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/tags/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/tags/"
                 />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/bigdata/</loc>
@@ -28,83 +96,8 @@
                 href="https://drewmelo.github.io/rproject/tags/bigdata/"
                 />
   </url><url>
-    <loc>https://drewmelo.github.io/rproject/categories/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/categories/"
-                />
-  </url><url>
     <loc>https://drewmelo.github.io/rproject/post/ciencia-de-dados/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/post/ciencia-de-dados/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/post/ciencia-de-dados/"
-                />
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/tags/datascience/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/tags/datascience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/tags/datascience/"
-                />
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/categories/heyo/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/categories/heyo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/categories/heyo/"
-                />
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/post/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/post/"
-                />
-  </url><url>
-    <loc>https://drewmelo.github.io/rproject/tags/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/tags/"
-                />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/creative-coding/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
@@ -117,6 +110,19 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://drewmelo.github.io/rproject/tags/creative-coding/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/categories/heyo/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/categories/heyo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/categories/heyo/"
                 />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/tags/javascript/</loc>
@@ -213,18 +219,8 @@
                 href="https://drewmelo.github.io/rproject/post/indice/"
                 />
   </url><url>
-    <loc>https://drewmelo.github.io/rproject/post/badges/</loc>
+    <loc>https://drewmelo.github.io/rproject/tags/blog/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drewmelo.github.io/rproject/en/post/badges/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://drewmelo.github.io/rproject/post/badges/"
-                />
   </url><url>
     <loc>https://drewmelo.github.io/rproject/about/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
@@ -237,6 +233,19 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://drewmelo.github.io/rproject/about/"
+                />
+  </url><url>
+    <loc>https://drewmelo.github.io/rproject/post/badges/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drewmelo.github.io/rproject/en/post/badges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://drewmelo.github.io/rproject/post/badges/"
                 />
   </url>
 </urlset>

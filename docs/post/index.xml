@@ -6,7 +6,16 @@
     <description>Recent content in Posts on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análise do SINASC - Granja, CE</title>
+      <link>https://drewmelo.github.io/rproject/post/analise-sinasc-ce/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/post/analise-sinasc-ce/</guid>
+      <description>&lt;p&gt;Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de &amp;ldquo;Big Data&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Ciência de Dados na Área Econômica</title>
       <link>https://drewmelo.github.io/rproject/post/ciencia-de-dados/</link>
@@ -53,12 +62,12 @@
     </item>
     
     <item>
-      <title>Insígnias</title>
+      <title>Sobre o blog</title>
       <link>https://drewmelo.github.io/rproject/post/badges/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/post/badges/</guid>
-      <description>&lt;p&gt;Esse artigo mostra como adicionar e customizar insígnias (&lt;em&gt;badges&lt;/em&gt;) em seus posts.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Esse artigo mostra as novidades que o blog oferece e a contribuição para a comunidade programadora, especialmente para a linguagem R e afins voltados para o universo econômico.&lt;/p&gt;</description>
     </item>
     
   </channel>

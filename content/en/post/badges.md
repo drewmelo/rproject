@@ -1,5 +1,5 @@
 ---
-author: Lucas David Vadilho
+author: André Melo
 badges:
   colab:
     color: orange
@@ -37,7 +37,7 @@ description: How to add badges to your posts
 tags:
 - theme
 - shortcodes
-title: Badges
+title: Sobre o blog
 ---
 
 This article will show you how to add and customize badges in your posts.

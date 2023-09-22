@@ -6,16 +6,7 @@
     <description>Recent content in heyo on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/categories/heyo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ciência de Dados na Área Econômica</title>
-      <link>https://drewmelo.github.io/rproject/post/ciencia-de-dados/</link>
-      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/post/ciencia-de-dados/</guid>
-      <description>&lt;p&gt;Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de &amp;ldquo;Big Data&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/categories/heyo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches!</title>
       <link>https://drewmelo.github.io/rproject/post/sketechs/</link>
@@ -50,15 +41,6 @@
       
       <guid>https://drewmelo.github.io/rproject/post/indice/</guid>
       <description>&lt;p&gt;No &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; podemos usar a barra da esquerda para mostrar um índice do post!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Insígnias</title>
-      <link>https://drewmelo.github.io/rproject/post/badges/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/post/badges/</guid>
-      <description>&lt;p&gt;Esse artigo mostra como adicionar e customizar insígnias (&lt;em&gt;badges&lt;/em&gt;) em seus posts.&lt;/p&gt;</description>
     </item>
     
   </channel>

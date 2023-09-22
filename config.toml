@@ -29,7 +29,7 @@ paginate = 10
     LanguageName = "pt-br"
 
 [params]
-  title = "Seja bem vindo!"
+  title = ""
   author = "drewmelo"
   description = "Call me Jane"
   profilePicture = "images/profile.png"
