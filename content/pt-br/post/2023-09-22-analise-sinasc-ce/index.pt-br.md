@@ -5,15 +5,15 @@ date: '2023-09-22'
 slug: analise-sinasc-ce
 Description: ''
 Tags: [datascience]
-Categories: [post]
+Categories: [Post]
 DisableComments: no
 ---
 
-Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de "Big Data".
+Neste artigo tratará a cerca da análise das complicações das gestações prematuras em mulheres acima de 30 anos, destacando a relação entre idade, escolaridade, semana de gestação e peso dos bebês prematuros.
 
 <!--more-->
 
-## AS COMPLICAÇÕES EM GESTAÇÕES PREMATURAS PARA MULHERES ACIMA DE 30 ANOS DE IDADE
+## As complicações em gestações prematuras para mulheres acima de 30 anos 
 
 A gestação é um processo complexo que envolve diversos aspectos da saúde física e emocional tanto da mãe quanto do feto. As gestações prematuras representam um problema de saúde pública que afeta milhares de mulheres em todo o mundo. Esse problema se torna ainda mais significativo quando consideramos as complicações na gravidez em mulheres com mais de 30 anos.
 
@@ -53,3 +53,11 @@ Nessas três análises que abrangem as variáveis Idade da Mãe, Escolaridade, G
 
 Além disso, a falta de recursos financeiros, frequentemente causada pela ausência de ensino superior em mulheres mais velhas, pode limitar o acesso a serviços públicos de qualidade, como exames pré-natais regulares e assistência ao parto por profissionais qualificados.
 
+
+## Referências
+
+KRAMER, M. S. et al. Socio-economic disparities in pregnancy outcome: why do the poor fare so poorly? Paediatric and perinatal epidemiology, v. 14, n. 3, p. 194-210, 2000. Disponível em: <a href="https://doi.org/10.1007/s11042-022-12153-2" target="_blank" style="color:#016dea; text-decoration: none;" onmouseover="this.style.color='#014ba0';" onmouseout="this.style.color='#016dea';">https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-3016.2000.00265.x</a>. Acesso em: 19 mar. 2021.
+
+MENEZES, A. L. Como assim, cultura da pedofilia? Politize. 2022. Disponível em: <a href="https://doi.org/10.1007/s11042-022-12153-2" target="_blank" style="color:#016dea; text-decoration: none;" onmouseover="this.style.color='#014ba0';" onmouseout="this.style.color='#016dea';">https://www.politize.com.br/cultura-do-estupro-como-assim/</a>. Acesso em: 19 mar. 2021.
+
+SOUZA, R. T. Uma análise do parto prematuro terapêutico no contexto da prematuridade no Brasil. Dissertação. Campinas (SP): Universidade Estadual de Campinas, 2015.

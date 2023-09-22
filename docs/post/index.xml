@@ -13,7 +13,7 @@
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://drewmelo.github.io/rproject/post/analise-sinasc-ce/</guid>
-      <description>&lt;p&gt;Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de &amp;ldquo;Big Data&amp;rdquo;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Neste artigo tratará a cerca da análise das complicações das gestações prematuras em mulheres acima de 30 anos, destacando a relação entre idade, escolaridade, semana de gestação e peso dos bebês prematuros.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,48 +26,14 @@
     </item>
     
     <item>
-      <title>Sketches!</title>
-      <link>https://drewmelo.github.io/rproject/post/sketechs/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Teoria dos Jogos no R: Jogos Simultâneos</title>
+      <link>https://drewmelo.github.io/rproject/post/2023-09-22-jogos-simultaneos-tj/jogos-simultaneos-tj/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://drewmelo.github.io/rproject/post/sketechs/</guid>
-      <description>&lt;p&gt;Sketches são as visualizações na barra lateral do &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;. As disponíveis no momento foram construídas usando &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; uma biblioteca de javascript para programação criativa.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Thumbnail no post</title>
-      <link>https://drewmelo.github.io/rproject/post/thumbnail/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/post/thumbnail/</guid>
-      <description>&lt;p&gt;Agora você pode adicionar thumbnails no seu post!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shortcode para callouts</title>
-      <link>https://drewmelo.github.io/rproject/post/callouts/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/post/callouts/</guid>
-      <description>&lt;p&gt;Olha só, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; tem &lt;em&gt;callouts&lt;/em&gt; agora!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Índice</title>
-      <link>https://drewmelo.github.io/rproject/post/indice/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/post/indice/</guid>
-      <description>&lt;p&gt;No &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; podemos usar a barra da esquerda para mostrar um índice do post!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sobre o blog</title>
-      <link>https://drewmelo.github.io/rproject/post/badges/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewmelo.github.io/rproject/post/badges/</guid>
-      <description>&lt;p&gt;Esse artigo mostra as novidades que o blog oferece e a contribuição para a comunidade programadora, especialmente para a linguagem R e afins voltados para o universo econômico.&lt;/p&gt;</description>
+      <guid>https://drewmelo.github.io/rproject/post/2023-09-22-jogos-simultaneos-tj/jogos-simultaneos-tj/</guid>
+      <description>&lt;script src=&#34;https://drewmelo.github.io/rproject/rproject/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://drewmelo.github.io/rproject/rproject/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;p&gt;Este tutorial tem como objetivo ensinar como aplicar a teoria dos jogos no ambiente R, utilizando o pacote Rgamer.&lt;/p&gt;</description>
     </item>
     
   </channel>

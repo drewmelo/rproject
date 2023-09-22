@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on André Melo</title>
+    <link>https://drewmelo.github.io/rproject/categories/tutorial/</link>
+    <description>Recent content in Tutorial on André Melo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teoria dos Jogos no R: Jogos Simultâneos</title>
+      <link>https://drewmelo.github.io/rproject/post/2023-09-22-jogos-simultaneos-tj/jogos-simultaneos-tj/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/post/2023-09-22-jogos-simultaneos-tj/jogos-simultaneos-tj/</guid>
+      <description>&lt;script src=&#34;https://drewmelo.github.io/rproject/rproject/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://drewmelo.github.io/rproject/rproject/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;p&gt;Este tutorial tem como objetivo ensinar como aplicar a teoria dos jogos no ambiente R, utilizando o pacote Rgamer.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
