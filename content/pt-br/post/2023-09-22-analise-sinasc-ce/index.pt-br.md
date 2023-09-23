@@ -2,6 +2,11 @@
 title: Análise do SINASC - Granja, CE
 author: André Melo
 date: '2023-09-22'
+thumbnail:
+    src: 'images/analise-sinasc-ce.jpg'
+    alt: 'Análise do SINASC - CE'
+    object_position: '50% 100%'
+    height: 300px
 slug: analise-sinasc-ce
 Description: ''
 Tags: [datascience]

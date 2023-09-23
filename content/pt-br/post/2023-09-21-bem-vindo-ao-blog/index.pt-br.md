@@ -27,7 +27,7 @@ categories:
 - post
 date: "2023-09-15"
 thumbnail:
-    src: 'images/sobre-o-blog.jpg'
+    src: 'images/sobre-o-blog2.jpg'
     alt: 'André Melo'
     object_position: '50% 100%'
     height: 300px

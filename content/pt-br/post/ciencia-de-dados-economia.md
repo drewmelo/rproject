@@ -3,13 +3,18 @@ author: André Melo
 categories:
 - Post
 date: "2023-09-21"
+thumbnail:
+    src: 'images/ciencia-de-dados-economia.jpg'
+    alt: 'A Ciência de Dados na Economia'
+    object_position: '50% 100%'
+    height: 300px
 description: Ciência de dados e economia
 math: true
 slug: ciencia-de-dados
 tags:
 - datascience
 - bigdata
-title: Ciência de Dados na Área Econômica
+title: Ciência de Dados na Economia
 ---
 
 Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de "Big Data".

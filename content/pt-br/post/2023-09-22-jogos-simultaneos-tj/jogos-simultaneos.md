@@ -4,7 +4,7 @@ author: André Melo
 date: '2023-09-16'
 math: true
 thumbnail:
-    src: 'images/jogos-simultaneos.jpg'
+    src: 'images/jogos-simultaneos2.jpg'
     alt: 'Teoria dos Jogos no R: Jogos Simultâneos'
     object_position: '50% 100%'
     height: 300px
