@@ -5,7 +5,7 @@
     --border-color: #009FE3;
     --blockquote-border-color: #009FE3;
     --code-color: #f8f8f2;
-    --code-bg-color: #858585a1;
+    --code-bg-color: #505050a1;
     --thumbnail-size: 250px;
 
     /* Theme specific */
@@ -37,6 +37,7 @@ html[data-theme='dark'] {
 html {
     background-color: var(--bg-color);
     font-family: "Roboto";
+    font-variant-numeric: oldstyle-nums;
 }
 
 /* * {
@@ -155,7 +156,6 @@ td, th {
 thead {
     background-color: var(--code-bg-color);
     color: var(--code-color);
-    font-variant: small-caps;
 }
 
 tbody tr:nth-child(2n) {
@@ -355,7 +355,7 @@ hr {
 }
 
 .top-toc img {
-    width: 150px;
+    width: 200px;
     border-radius: 50%;
     margin: 15px;
 }

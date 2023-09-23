@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on André Melo</title>
+    <title>post on André Melo</title>
     <link>https://drewmelo.github.io/rproject/categories/post/</link>
-    <description>Recent content in Post on André Melo</description>
+    <description>Recent content in post on André Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://drewmelo.github.io/rproject/categories/post/index.xml" rel="self" type="application/rss+xml" />
@@ -23,6 +23,15 @@
       
       <guid>https://drewmelo.github.io/rproject/post/ciencia-de-dados/</guid>
       <description>&lt;p&gt;Esse texto aborda a cerca do impacto da data science em previsão das tendências econômicas e tomada de decisões estratégicas em um cenário de &amp;ldquo;Big Data&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sobre o blog</title>
+      <link>https://drewmelo.github.io/rproject/post/2023-09-21-bem-vindo-ao-blog/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewmelo.github.io/rproject/post/2023-09-21-bem-vindo-ao-blog/</guid>
+      <description>&lt;p&gt;Esse artigo mostra as novidades que o blog oferece e a contribuição para a comunidade programadora, especialmente para a linguagem R e afins voltados para o universo econômico.&lt;/p&gt;</description>
     </item>
     
   </channel>
