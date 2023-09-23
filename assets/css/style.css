@@ -37,7 +37,6 @@ html[data-theme='dark'] {
 html {
     background-color: var(--bg-color);
     font-family: "Roboto";
-    font-variant-numeric: oldstyle-nums;
 }
 
 /* * {
